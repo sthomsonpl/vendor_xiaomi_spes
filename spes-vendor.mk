@@ -825,6 +825,7 @@ vendor/xiaomi/spes/proprietary/vendor/etc/seccomp_policy/vendor.qti.hardware.dsp
     vendor/xiaomi/spes/proprietary/vendor/lib64/camera/components/com.qti.node.fcv.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/components/com.qti.node.fcv.so \
     vendor/xiaomi/spes/proprietary/vendor/lib64/camera/components/com.qti.node.gpu.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/components/com.qti.node.gpu.so \
     vendor/xiaomi/spes/proprietary/vendor/lib64/camera/components/com.qti.node.memcpy.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/components/com.qti.node.memcpy.so \
+    vendor/xiaomi/spes/proprietary/vendor/lib64/camera/components/com.qti.node.mialgocontrol.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/components/com.qti.node.mialgocontrol.so \
     vendor/xiaomi/spes/proprietary/vendor/lib64/camera/components/com.qti.node.mimovie.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/components/com.qti.node.mimovie.so \
     vendor/xiaomi/spes/proprietary/vendor/lib64/camera/components/com.qti.node.stich.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/components/com.qti.node.stich.so \
     vendor/xiaomi/spes/proprietary/vendor/lib64/camera/components/com.qti.node.swaidenoiser.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/components/com.qti.node.swaidenoiser.so \
