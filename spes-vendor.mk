@@ -331,7 +331,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/spes/proprietary/vendor/etc/init/vendor.sensors.sscrpcd.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/vendor.sensors.sscrpcd.rc \
     vendor/xiaomi/spes/proprietary/vendor/etc/init/vendor.xiaomi.hardware.displayfeature@1.0-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/vendor.xiaomi.hardware.displayfeature@1.0-service.rc \
     vendor/xiaomi/spes/proprietary/vendor/etc/init/vendor.xiaomi.hardware.mlipay@1.1-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/vendor.xiaomi.hardware.mlipay@1.1-service.rc \
-    vendor/xiaomi/spes/proprietary/vendor/etc/init/vendor.xiaomi.hardware.mtdservice@1.2-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/vendor.xiaomi.hardware.mtdservice@1.2-service.rc \
+    vendor/xiaomi/spes/proprietary/vendor/etc/init/vendor.xiaomi.hardware.mtdservice@1.3-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/vendor.xiaomi.hardware.mtdservice@1.3-service.rc \
     vendor/xiaomi/spes/proprietary/vendor/etc/init/wfdvndservice.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/wfdvndservice.rc \
     vendor/xiaomi/spes/proprietary/vendor/etc/izat.conf:$(TARGET_COPY_OUT_VENDOR)/etc/izat.conf \
     vendor/xiaomi/spes/proprietary/vendor/etc/libnfc-hal-st.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-hal-st.conf \
@@ -1299,6 +1299,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/spes/proprietary/vendor/radio/qcril_database/upgrade/10_version_update_ecc_table.sql:$(TARGET_COPY_OUT_VENDOR)/radio/qcril_database/upgrade/10_version_update_ecc_table.sql \
     vendor/xiaomi/spes/proprietary/vendor/radio/qcril_database/upgrade/11_version_update_ecc_table.sql:$(TARGET_COPY_OUT_VENDOR)/radio/qcril_database/upgrade/11_version_update_ecc_table.sql \
     vendor/xiaomi/spes/proprietary/vendor/radio/qcril_database/upgrade/12_version_update_ecc_table.sql:$(TARGET_COPY_OUT_VENDOR)/radio/qcril_database/upgrade/12_version_update_ecc_table.sql \
+    vendor/xiaomi/spes/proprietary/vendor/radio/qcril_database/upgrade/13_version_update_ecc_table.sql:$(TARGET_COPY_OUT_VENDOR)/radio/qcril_database/upgrade/13_version_update_ecc_table.sql \
     vendor/xiaomi/spes/proprietary/vendor/radio/qcril_database/upgrade/1_version_intro.sql:$(TARGET_COPY_OUT_VENDOR)/radio/qcril_database/upgrade/1_version_intro.sql \
     vendor/xiaomi/spes/proprietary/vendor/radio/qcril_database/upgrade/2_version_add_wps_config.sql:$(TARGET_COPY_OUT_VENDOR)/radio/qcril_database/upgrade/2_version_add_wps_config.sql \
     vendor/xiaomi/spes/proprietary/vendor/radio/qcril_database/upgrade/3_version_update_wps_config.sql:$(TARGET_COPY_OUT_VENDOR)/radio/qcril_database/upgrade/3_version_update_wps_config.sql \
